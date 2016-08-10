@@ -1,0 +1,5 @@
+# Introduction
+
+What is Snolex?
+Snolex is a fast and intuitive browser, demonstrator and refset manager for SNOMED CT.
+
